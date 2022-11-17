@@ -3,11 +3,11 @@ ________________________________________________________________________________
 </br>
 
 
-<h3> <strong>Apresentação ✨</strong> </h3>
+<h2> <strong>Apresentação ✨</strong> </h2>
 </br>
 <div>
  
- <img  align="right" src="https://tenor.com/view/luffy-smile-luffy-giggle-one-piece-luffy-gif-21582589.gif" width="275px"/>
+ <img  align="right" src="https://tenor.com/view/luffy-smile-luffy-giggle-one-piece-luffy-gif-21582589.gif" width="270px"/>
  
  ✌ Me chamo Paulo Felipe, tenho 21 anos e moro na cidade maravilhosa mais conhecida como </br> Rio de Janeiro. 
 
@@ -15,14 +15,14 @@ ________________________________________________________________________________
 
  👨‍💻 No momento presente estou me aperfeiçoando em desenvolvimento web.
 
- 🎮 Sou apaixonado por animes (acho que da para notar pela minha foto de perfil hahaha) e passo </br> boa parte do tempo jogando e ouvindo música.
+ 🎮 Sou apaixonado por animes (acho que da para notar pela minha foto de perfil hahaha)</br> e passo boa parte do tempo jogando e ouvindo música.
 
  
 </div>
 </br>
 </br>
 
-<h3> <strong>💻Tecnologias e aprendizados📚</strong> </h3>
+<h2> <strong>💻Tecnologias e aprendizados📚</strong> </h2>
 
 
 
