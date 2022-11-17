@@ -1,7 +1,6 @@
 ___________________________________________________________________________________________________________________________________________________________
-
 <h1 align="center"> Ahoy Devs! 🏴‍☠️ </h1>
-
+</br>
 <h3> <strong>Apresentação ✨</strong> </h3>
 </br>
 
@@ -12,8 +11,14 @@ ________________________________________________________________________________
 👨‍💻 No momento presente estou me aperfeiçoando em desenvolvimento web.
 
 🎮 Sou apaixonado por animes (acho que da para notar pela minha foto de perfil hahaha) e passo grande parte do tempo jogando e ouvindo música.
+ 
+![](https://tenor.com/view/luffy-smile-luffy-giggle-one-piece-luffy-gif-21582589.gif?w=300)
+
 </br>
 </br>
+</br>
+
+
 
 
 <h3> <strong>💻Tecnologias e aprendizados📚</strong> </h3>
