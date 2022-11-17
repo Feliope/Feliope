@@ -12,4 +12,9 @@ ________________________________________________________________________________
 👨‍💻 No momento presente estou me aperfeiçoando em desenvolvimento web.
 
 🎮 Sou apaixonado por animes (acho que da para notar pela minha foto de perfil hahaha) e passo grande parte do tempo jogando e ouvindo música.
+</br>
+</br>
+
+
+<h3> <strong>💻Tecnologias e aprendizados📚</strong> </h3>
 
