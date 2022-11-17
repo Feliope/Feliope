@@ -6,7 +6,7 @@ ________________________________________________________________________________
 </br>
 
 <div>
- <img  align="right" src="https://tenor.com/view/luffy-smile-luffy-giggle-one-piece-luffy-gif-21582589.gif" width="275px"/>
+ <img  align="right" src="https://tenor.com/view/luffy-smile-luffy-giggle-one-piece-luffy-gif-21582589.gif" width="270px"/>
  
  ✌ Me chamo Paulo Felipe, tenho 21 anos e moro na cidade maravilhosa mais conhecida como </br> Rio de Janeiro.
 
