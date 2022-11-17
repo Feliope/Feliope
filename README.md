@@ -42,8 +42,17 @@ ________________________________________________________________________________
 <h2><strong>☎️Contatos☎️</strong></h2>
 
 <div>
-<a href="https://www.youtube.com/channel/UCYbGSBZVPyxnM9Vfb6WbHDQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-<a href="https://instagram.com/feliopx" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href = "mailto:paulo.felipe.pfsv@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/paulo-felipe-vantos-vieira-a4952b140" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+<a href="https://www.youtube.com/channel/UCYbGSBZVPyxnM9Vfb6WbHDQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>&emsp;
+<a href="https://instagram.com/feliopx" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>&emsp;
+<a href = "mailto:paulo.felipe.pfsv@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>&emsp;
+<a href="https://www.linkedin.com/in/paulo-felipe-santos-vieira-a4952b140/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
+
+<h2><strong>📊Estatísticas📊</strong></h2>
+<div>
+<a href="https://github.com/Feliope">
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Feliope&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Feliope&layout=compact&langs_count=7&theme=midnight-purple"/>
+</div>
+ 
+![Snake animation](https://github.com/Feliope/Feliope/blob/output/github-contribution-grid-snake.svg)
