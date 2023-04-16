@@ -8,13 +8,13 @@ ________________________________________________________________________________
 <div>
  <img  align="right" src="https://tenor.com/view/luffy-smile-luffy-giggle-one-piece-luffy-gif-21582589.gif" width="250px"/>
  
- ✌ Me chamo Paulo Felipe, tenho 21 anos e moro na cidade maravilhosa mais conhecida como </br> Rio de Janeiro.
+ ✌ Meu nome é Paulo Felipe, tenho 21 anos. Moro noRio de Janeiro, mais conhecido como cidade maravilhosa.
 
- 👨‍🎓 Conheci o universo da programação em 2019 ao mesmo tempo que ingressei na UFF como </br> graduando em Ciência da Computação.
+ 👨‍🎓 Conheci o universo da programação em 2019 quando ingressei na Universidade Federal Fluminense (UFF) como graduando em Ciência da Computação.
 
- 👨‍💻 No momento presente estou me aperfeiçoando em desenvolvimento web.
+ 👨‍💻 No momento presente estou me aperfeiçoando em Desenvolvimento Web através de cursos.
 
-🎮 Sou apaixonado por animes (acho que da para notar pela minha foto de perfil hahaha)</br> e passo boa parte do tempo jogando e ouvindo música.
+🎮 Sou apaixonado por animes (acho que dá para notar pela minha foto de perfil hahaha)</br> e passo boa parte do tempo jogando e ouvindo música.
 </div>
 
 </br></br>
@@ -43,7 +43,7 @@ ________________________________________________________________________________
 
 <div>
 <a href="https://www.youtube.com/channel/UCYbGSBZVPyxnM9Vfb6WbHDQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>&emsp;
-<a href="https://instagram.com/feliopx" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>&emsp;
+<a href="https://instagram.com/pfelipe.js" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>&emsp;
 <a href = "mailto:paulo.felipe.pfsv@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>&emsp;
 <a href="https://www.linkedin.com/in/paulo-felipe-santos-vieira-a4952b140/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
