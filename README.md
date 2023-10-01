@@ -8,11 +8,11 @@ ________________________________________________________________________________
 <div>
  <img  align="right" src="https://tenor.com/view/luffy-smile-luffy-giggle-one-piece-luffy-gif-21582589.gif" width="250px"/>
  
- ✌ Meu nome é Paulo Felipe, tenho 22 anos. Moro noRio de Janeiro, mais conhecido como cidade maravilhosa.
+ ✌ Meu nome é Paulo Felipe, tenho 22 anos. Moro no Rio de Janeiro, mais conhecido como cidade maravilhosa.
 
  👨‍🎓 Conheci o universo da programação em 2019 quando ingressei na Universidade Federal Fluminense (UFF) como graduando em Ciência da Computação.
 
- 👨‍💻 No momento presente estou me aperfeiçoando em Desenvolvimento Web e Desensvolvimento Mobile através de cursos.
+ 👨‍💻 No momento presente estou me aperfeiçoando em Desenvolvimento Web e Desenvolvimento Mobile através de cursos.
 
 🎮 Sou apaixonado por animes (acho que dá para notar pela minha foto de perfil hahaha)</br> e passo boa parte do tempo jogando e ouvindo música.
 </div>
