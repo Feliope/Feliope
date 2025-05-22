@@ -12,7 +12,7 @@ ________________________________________________________________________________
 
  👨‍🎓 Conheci o universo da programação em 2019 quando ingressei na Universidade Federal Fluminense (UFF) como graduando em Ciência da Computação.
 
- 👨‍💻 No momento presente estou me aperfeiçoando em Desenvolvimento Web e Desenvolvimento Mobile através de cursos.
+ 👨‍💻 No momento presente estou me aperfeiçoando em Desenvolvimento Web, com foco em me tornar um desenvolvedor FrontEnd.
 
 🎮 Sou apaixonado por animes (acho que dá para notar pela minha foto de perfil hahaha)</br> e passo boa parte do tempo jogando e ouvindo música.
 </div>
@@ -27,8 +27,6 @@ ________________________________________________________________________________
  <img  align="right" src="https://tenor.com/view/programming-gif-24316523.gif" width="150px"/>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" height="60"/>&emsp;&emsp;
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="60" height="60"/>&emsp;&emsp;
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="60" height="60"/>&emsp;&emsp;
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="60" height="60"/>&emsp;&emsp;
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="60" height="60"/> </br></br>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60" height="60"/>&emsp;&emsp;
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="60" height="60"/>&emsp;&emsp;
